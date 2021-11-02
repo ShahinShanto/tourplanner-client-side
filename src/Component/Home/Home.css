@@ -1,0 +1,40 @@
+.caption h3 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: white;
+}
+.h5color{
+  color: white;
+}
+.cover {
+  background: url(../../Images/carousel.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.cover2 {
+  background: url(../../Images/carousel1.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.cover3 {
+  background: url(../../Images/carousel3.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+/* custom button css */
+.bf-color{
+  color:  white;
+  background: #7A17BF;
+  
+  }
+  .bf-color:hover{
+      color: #7A17BF;
+      background: white ;
+      }
+
+h1{
+  color: #7A17BF;
+}

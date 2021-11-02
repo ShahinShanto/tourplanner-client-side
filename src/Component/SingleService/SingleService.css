@@ -1,0 +1,13 @@
+.bf-color{
+    color:  white;
+    background: #7A17BF;
+    
+    }
+    .bf-color:hover{
+        color: #7A17BF;
+        background: white ;
+        border: 1px solid #7A17BF;
+        }
+        .place{
+            color:#7A17BF ;
+        }

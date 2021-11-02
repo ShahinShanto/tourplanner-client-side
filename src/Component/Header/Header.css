@@ -1,0 +1,24 @@
+.bg-custom{
+    background-color: white;
+    color: black !important;
+}
+.f-color{
+    color: #7A17BF !important;
+}
+.lf-color{
+    color: #7A17BF !important;
+}
+.f-color:hover{
+    color: white !important;
+    background:#7A17BF !important;
+    border-radius: 5px;
+
+}
+.b-color{
+color: #7A17BF !important;
+border: 1px solid #7A17BF !important;
+}
+.b-color:hover{
+    color: white !important;
+    background: #7A17BF !important;
+    }

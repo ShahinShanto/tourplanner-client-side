@@ -1,0 +1,27 @@
+.review-card {
+  padding: 30px 25px;
+  margin: 20px 10px;
+  text-align: center;
+  border-radius: 50px 50px 0 0;
+}
+.review {
+  height: 9rem;
+  width: 9rem;
+  border-radius: 50%;
+  border: 0.4rem solid #7A17BF;
+  margin: 0 auto;
+}
+
+.review-card p::before {
+  position: absolute;
+  content: "";
+  left: 20px;
+  bottom: 56%;
+  height: 37px;
+  width: 37px;
+}
+.review-card h5 {
+  font-size: 20px;
+  font-weight: 500px;
+  color: #a5a5a5;
+}

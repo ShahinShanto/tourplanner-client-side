@@ -1,0 +1,25 @@
+.style {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.style form input,
+textarea {
+  width: 100%;
+  margin-bottom: 3px;
+  margin-top: 3px;
+}
+.visible {
+  visibility: hidden;
+}
+
+.signino{
+  color: white;
+  background: #7A17BF;
+  width: 24rem;
+}
+.btn3{
+  color: #7A17BF;
+  background: white;
+}
